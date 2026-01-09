@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+torchaudio
+opencv-python
+Pillow
+matplotlib
+pip install -r requirements.txt
+streamlit run app.py
