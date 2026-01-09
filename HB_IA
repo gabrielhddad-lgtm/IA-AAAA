@@ -1,0 +1,19 @@
+class Config:
+    crop_x = 0      # Ajuste conforme seu print
+    crop_y = 0
+    crop_w = 800
+    crop_h = 600
+    img_size = 224
+    best_model_path = "best_model.pth"
+ID2LABEL = {
+    0: "UP",
+    1: "DOWN",
+    2: "NEUTRAL"
+}
+streamlit
+torch
+torchvision
+torchaudio
+opencv-python
+Pillow
+matplotlib
